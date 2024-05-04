@@ -108,3 +108,9 @@ Molecular Weight:63173.376 Da
 GRAVY Score:-0.45
 Motifs matched:[{'motif_match': 'NETY', 'position': (277, 280)}, {'motif_match': 'NITS', 'position': (415, 418)}]
 ```
+
+### CS50P Certificate
+![CS50P](https://github.com/mmkar5/Protein-Sequence-Information-Finder_CS50P-Project/assets/160476301/68b6eaef-23d9-4e4a-bbab-648d68bcce3e)
+
+
+
