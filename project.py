@@ -29,7 +29,7 @@ class Protein_Seq_Features:
     ]
 
     def __init__(self, seq):
-        self.seq = seq
+        self.seq = seq.upper()
 
     def seq_length(self):
         """Returns the length of the protein sequence"""
@@ -306,7 +306,7 @@ def get_input_seq(args):
             sys.exit("Not a fasta file")
     else:
         seq_id = input("Enter protein sequence identifier: ")
-        seq = input("Enter protein sequence: ").strip().upper()
+        seq = input("Enter protein sequence: ").strip()
         yield seq_id, seq
 
 
