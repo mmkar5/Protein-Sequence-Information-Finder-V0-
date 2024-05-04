@@ -1,4 +1,5 @@
 # Protein Sequence Property Information Finder (V0)
+## Final Project for CS50P
 #### Video Demo: <https://youtu.be/OXrPTR6PThM->
 #### Description:
 The program project.py takes an id & protein sequence or an input fasta file containing several sequences & provides information regarding the following features of the given protein sequence:
